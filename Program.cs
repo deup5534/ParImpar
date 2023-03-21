@@ -1,6 +1,8 @@
-﻿
-Console.WriteLine("Digite o número que você quiser, eu vou adivinhar se ele é par ou impar. Duvida? Aaaaaaaah, nem vou falar o restos");
-Thread.Sleep(5000);
+Console.Clear();
+
+
+Console.WriteLine("Digite o número que você quiser, eu vou adivinhar se ele é par ou impar. Duvida? Aaaaaaaah, nem vou falar o resto");
+Thread.Sleep(3000);
 
 Console.Clear();
 
