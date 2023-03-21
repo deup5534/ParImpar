@@ -2,7 +2,7 @@ Console.Clear();
 
 
 Console.WriteLine("Digite o número que você quiser, eu vou adivinhar se ele é par ou impar. Duvida? Aaaaaaaah, nem vou falar o resto");
-Thread.Sleep(3000);
+Thread.Sleep(3500);
 
 Console.Clear();
 
